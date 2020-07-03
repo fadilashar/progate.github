@@ -1,0 +1,10 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+ background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.polhukam.id%2Fwp-content%2Fuploads%2F2018%2F06%2FD8D83AD9-4C8B-42B6-A890-0EAF2D82EA1E.jpeg&imgrefurl=https%3A%2F%2Fwww.polhukam.id%2F2018%2F06%2F17%2Fsurga-tersembunyi-di-nusa-penida-yang-jarang-diketahui-turis-bagian-i%2F&tbnid=VKk13OmRNgW_4M&vet=12ahUKEwjZg9a_uLHqAhXTw3MBHXkdBp4QMyg1egQIARAy..i&docid=zLIlEWoLOba7HM&w=670&h=400&q=pulau%20telunjuk%20bali&safe=active&ved=2ahUKEwjZg9a_uLHqAhXTw3MBHXkdBp4QMyg1egQIARAy);
+  background-size: cover;            
+ color: white;            
+ text-align: center; 
+ }
